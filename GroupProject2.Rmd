@@ -1,0 +1,7 @@
+---
+title: "GroupProject2"
+author: "Willa Van Liew, Phil Chen, Daniel Smith"
+date: "2023-03-03"
+output: html_document
+---
+
